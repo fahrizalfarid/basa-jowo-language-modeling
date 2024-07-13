@@ -7,6 +7,7 @@
     "train_runtime": 4937.567,
     "train_samples": 80219,
     "train_samples_per_second": 243.7,
-    "train_steps_per_second": 15.232
+    "train_steps_per_second": 15.232,
+    "perplexity": 44.98604708614023
 }
 ```
