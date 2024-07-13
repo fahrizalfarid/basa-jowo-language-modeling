@@ -1,13 +1,12 @@
 # basa-jowo-language-modeling
 ```json
 {
-    "epoch": 11.0,
-    "eval_accuracy": 0.2780392959476054,
-    "eval_loss": 5.024305820465088,
-    "eval_runtime": 29.6763,
-    "eval_samples": 4053,
-    "eval_samples_per_second": 136.574,
-    "eval_steps_per_second": 34.169,
-    "perplexity": 152.0646592908706
+    "epoch": 15.0,
+    "total_flos": 7.919584575053184e+16,
+    "train_loss": 1.1771604976443562,
+    "train_runtime": 4937.567,
+    "train_samples": 80219,
+    "train_samples_per_second": 243.7,
+    "train_steps_per_second": 15.232
 }
 ```
