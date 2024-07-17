@@ -1,13 +1,13 @@
 # basa-jowo-language-modeling
 ```json
 {
-    "epoch": 25.0,
-    "total_flos": 1.319930762508864e+17,
-    "train_loss": 0.6150265672133651,
-    "train_runtime": 7682.6614,
+    "epoch": 30.0,
+    "total_flos": 1.5839169150106368e+17,
+    "train_loss": 0.47119966579742084,
+    "train_runtime": 6930.0607,
     "train_samples": 80219,
-    "train_samples_per_second": 261.039,
-    "train_steps_per_second": 16.316
-    "perplexity": 22.53496712388723
+    "train_samples_per_second": 347.265,
+    "train_steps_per_second": 21.705,
+    "perplexity": 20.01662535880206
 }
 ```
